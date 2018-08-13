@@ -1,0 +1,23 @@
+{
+  "name": "Terraboard",
+  "description": "A web dashboard for Terraform states",
+  "courseware-metadata": {
+    "title": "Terraboard",
+    "subtitle": "A web dashboard for Terraform states",
+    "department": "infrastructure",
+    "version": "1.0"
+  },
+  "favicon": "file/_images-base/favicon.ico",
+  "protected": [
+    "presenter",
+    "onepage",
+    "supplemental",
+    "print"
+  ],
+  "user": "tb",
+  "password": "flat",
+  "version": "0.19.3",
+  "sections": [
+    "Terraboard"
+  ]
+}
